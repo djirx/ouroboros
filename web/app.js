@@ -1216,7 +1216,7 @@ initSettings();
 initLogs();
 initVersions();
 initCosts();
-    initHeroboros();
+initHeroboros();
 initAbout();
 loadVersion();
 showPage('chat');
